@@ -233,7 +233,7 @@ hr.small {
 
 /* Side Menu */
 
-#sidebar-wrapper {
+.landing-page #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
     right: 0;
@@ -295,14 +295,14 @@ hr.small {
     background: none;
 }
 
-#menu-toggle {
+.landing-page #menu-toggle {
     z-index: 1;
     position: fixed;
     top: 0;
     right: 0;
 }
 
-#sidebar-wrapper.active {
+.landing-page #sidebar-wrapper.active {
     right: 250px;
     width: 250px;
     -webkit-transition: all 0.4s ease 0s;
