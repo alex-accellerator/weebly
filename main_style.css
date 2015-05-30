@@ -116,6 +116,7 @@ body {
 
 body {
   color: $text_color;
+  text-shadow: 0px 2px 2px rgba(34, 34, 34, 0.3);
   font: 15px/1 "Cabin", sans-serif;
 	-webkit-font-smoothing: antialiased;
 }
