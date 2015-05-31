@@ -127,10 +127,10 @@ body {
 a {
   color: $accent_color;
   -webkit-transition: all 240ms linear;
-      -moz-transition: all 240ms linear;
-      -o-transition: all 240ms linear;
-      -ms-transition: all 240ms linear;
-      transition: all 240ms linear;
+  -moz-transition: all 240ms linear;
+  -o-transition: all 240ms linear;
+  -ms-transition: all 240ms linear;
+  transition: all 240ms linear;
 }
 
 a:hover {
@@ -393,8 +393,8 @@ div.paragraph, p {
   height: auto !important;
   line-height: 1 !important;
   color: $bg_color;
+  margin: 0 auto !important;
   padding: 0 !important;
-  margin: 0 !important;
 }
 
 .wsite-button,
