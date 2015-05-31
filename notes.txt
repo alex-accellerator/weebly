@@ -1,0 +1,1 @@
+no header = product page/show page
