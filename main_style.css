@@ -1077,6 +1077,9 @@ a:hover {
   transform: scale(1);
   transition: 0.7s ease;
 }
+img {
+  transition: 0.7s ease;
+}
 .store-item-picture-scale {
   transform: scale(1.1);
 }
