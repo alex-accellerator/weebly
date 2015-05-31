@@ -1108,3 +1108,10 @@ body {
   background: white;
   color: inherit;
 }
+h1,h2,h3,h4,h5{
+  color: inherit;
+  transition: 0.7s ease;
+}
+h1:hover,h2:hover,h3:hover,h4:hover,:h5:hover {
+  color: #CC33FF !important;
+}
