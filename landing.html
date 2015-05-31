@@ -41,8 +41,8 @@
 
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="/">Home</a></li>
-                <li><a href="./about.html">About</a></li>
-                <li><a href="./contact.html">Contact us</a></li>
+                <li><a href="/about.html">About</a></li>
+                <li><a href="/contact.html">Contact us</a></li>
             </ul>
         </div>
       </div>
@@ -51,15 +51,15 @@
 		<div id="banner" class="wsite-background">
 			<div class="banner-content">
                 <div class="w-container">
-                    <h2 class="title">{headline:text global="false"}</h2>
-                    <p>{headline-paragraph:text global="false"}</p>
-                    {headline-button:button global="false"}
+                    <h2 class="title">{top-text:text global="false"}</h2>
+                    <p>{paragraph:text global="false"}</p>
+                    <a href="#scroll" class="btn btn-default btn-animate">Scroll Down</a>
                 </div>
 			</div>
 		</div>
     </div>
     <div id="main">
-        <div class="w-container">{content}</div>
+        <div id="scroll" class="w-container">{content}</div>
     </div>
     <!-- store items (weebly says theyll implement drag and drop custom elements soon) -->
     <div class="container">
