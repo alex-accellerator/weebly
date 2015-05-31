@@ -1058,6 +1058,7 @@ a:hover {
 }
 .store-item-container {
   padding-left: 5px; padding-right: 5px;
+  margin-top: 10px;
 }
 .store-item-price {
   background-color: #BBB;
