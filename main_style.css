@@ -1032,3 +1032,52 @@ select {
   }
   
 }
+/* index.css file for store item partial */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+a:hover {
+  color: inherit;
+  text-decoration: none;
+}
+.col-center {
+  float: none;
+  margin: 0 auto;
+}
+.store-item {
+  background-color: white;
+  height: 450px;
+  box-shadow: 1px 1px 1px #D9D9D9;
+  margin-bottom: 25px;
+}
+.store-item-container {
+  padding-left: 5px; padding-right: 5px;
+}
+.store-item-price {
+  background-color: #BBB;
+  width: 25%;
+  height: 2px;
+  transition: .7s ease;
+}
+.store-item-picture-frame {
+  max-width: 100%;
+  max-height: 150px;
+  display: block;
+  overflow: hidden;
+}
+.store-item-picture {
+  width: 100%;
+  transform: scale(1);
+  transition: 0.7s ease;
+}
+.store-item-picture-scale {
+  transform: scale(1.1);
+}
+.lead {
+  color: #BBB;
+}
+.slider {
+  background-color: #CC33FF;
+  width: 50% !important;
+}
