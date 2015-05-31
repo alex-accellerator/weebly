@@ -25,12 +25,48 @@
       bg_color: '#212121',
       text_color: '#b1b1b1',
       accent_color: '#ffffff',
-      border_color:'#55555',
+      border_color:'#555555',
       button_bg: '#b1b1b1',
       button_hover: '#cccccc',
       alt_button_bg: '#f1f1f1',
       alt_button_hover: '#ffffff'
-    }
+    },
+    {
+      value: 'dark blue',
+      sample: '#173659',
+      bg_color: '#F0F0F0',
+      text_color: '#888888',
+      accent_color: '#ffffff',
+      border_color:'#555555',
+      button_bg: '#888888',
+      button_hover: '#173659',
+      alt_button_bg: '#333333',
+      alt_button_hover: '#555555'
+    },
+    {
+      value: 'teal',
+      sample: '#45C1C6',
+      bg_color: '#F0F0F0',
+      text_color: '#888888',
+      accent_color: '#ffffff',
+      border_color:'#555555',
+      button_bg: '#888888',
+      button_hover: '#45C1C6',
+      alt_button_bg: '#333333',
+      alt_button_hover: '#555555'
+    }, 
+    {
+      value: 'orange',
+      sample: '#F08066',
+      bg_color: '#F0F0F0',
+      text_color: '#888888',
+      accent_color: '#ffffff',
+      border_color:'#555555',
+      button_bg: '#888888',
+      button_hover: '#F08066',
+      alt_button_bg: '#333333',
+      alt_button_hover: '#555555'
+    }, 
   ]
 }
 ------------------------------------------------------------------------------------------------------*/
