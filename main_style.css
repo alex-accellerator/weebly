@@ -35,6 +35,10 @@
 }
 ------------------------------------------------------------------------------------------------------*/
 
+/* Fonts */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400);
 
 
 /* Resets
@@ -134,8 +138,16 @@ a:hover {
 }
 
 h2 {
-  font-family: "Raleway";
+  font-family: 'PT Sans Narrow', normal; 
+  font-weight: 400;
   font-size: 1.5em;
+  margin: 0 auto .5em;
+}
+
+.title{ 
+  font-family: 'PT Sans Narrow', normal; 
+  font-weight: 400;
+  font-size: 1.5em
   margin: 0 auto .5em;
 }
 
@@ -172,7 +184,8 @@ div.paragraph, p {
 }
 
 #wsite-title {
-  font-family: "Raleway";
+  font-family: 'PT Sans Narrow', normal; 
+  font-weight: 400;
   font-size: 2.25em;
   font-weight: bold;
 }
