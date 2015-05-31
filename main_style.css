@@ -38,7 +38,7 @@
       text_color: '#888888',
       accent_color: '#ffffff',
       border_color:'#173659',
-      button_bg: '#173659',
+      button_bg: '#888888',
       button_hover: '#173659',
       alt_button_bg: '#333333',
       alt_button_hover: '#173659'
@@ -69,13 +69,13 @@
     }, 
     {
       value: 'lime',
-      sample: '#79676E',
+      sample: '#79C76E',
       bg_color: '#F0F0F0',
       text_color: '#888888',
       accent_color: '#ffffff',
       border_color:'#555555',
       button_bg: '#888888',
-      button_hover: '#79676E',
+      button_hover: '#79C76E',
       alt_button_bg: '#333333',
       alt_button_hover: '#555555'
     }
