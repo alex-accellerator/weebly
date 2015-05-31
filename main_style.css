@@ -1096,3 +1096,13 @@ img {
 body {
   padding-top: 50px;
 }
+.btn-animate {
+  background:inherit;
+  border:1px solid #fff;
+  color:white;
+  transition: 0.7s ease;
+}
+.btn-animate:hover {
+  background: white;
+  color: inherit;
+}
