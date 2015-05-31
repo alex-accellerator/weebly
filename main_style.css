@@ -138,14 +138,14 @@ a:hover {
 }
 
 h2 {
-  font-family: 'PT Sans Narrow', normal; 
+  font-family: 'PT Sans Narrow', normal;
   font-weight: 400;
   font-size: 1.5em;
   margin: 0 auto .5em;
 }
 
-.title{ 
-  font-family: 'PT Sans Narrow', normal; 
+.title{
+  font-family: 'PT Sans Narrow', normal;
   font-weight: 400;
   font-size: 1.5em
   margin: 0 auto .5em;
@@ -179,11 +179,11 @@ div.paragraph, p {
 }
 
 .wsite-logo img {
-  max-height: 150px;
+  max-height: 28px;
 }
 
 #wsite-title {
-  font-family: 'PT Sans Narrow', normal; 
+  font-family: 'PT Sans Narrow', normal;
 }
 
 /* Navigation
@@ -1093,6 +1093,7 @@ img {
 .btn-center {
   text-align: center;
 }
+
 body {
   padding-top: 50px;
 }
