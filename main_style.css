@@ -10,7 +10,7 @@
     {
       value: 'light',
       sample: '#ffffff',
-      bg_color: '#ffffff',
+      bg_color: '#F0F0F0',
       text_color: '#888888',
       accent_color: '#555555',
       border_color: '#e1e1e1',
@@ -1076,4 +1076,7 @@ a:hover {
 .slider {
   background-color: #CC33FF;
   width: 50% !important;
+}
+.btn-center {
+  text-align: center;
 }
